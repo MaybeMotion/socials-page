@@ -2,8 +2,12 @@ body, html {
     margin: 0;
     padding: 0;
     font-family: 'Open Sans', sans-serif;
-    background: gray;
     color: #fff;
+}
+
+body {
+    background: url(/images/bg01.jpg) repeat center center fixed;
+    background-size: cover;
 }
 
 header {
